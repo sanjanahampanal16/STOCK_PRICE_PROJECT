@@ -4,4 +4,4 @@ numpy
 matplotlib
 scikit-learn
 yfinance
-tensorflow
+tensorflow==2.15.0
