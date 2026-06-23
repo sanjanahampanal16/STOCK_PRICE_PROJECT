@@ -5,4 +5,5 @@ matplotlib==3.9.0
 scikit-learn==1.5.1
 yfinance==0.2.40
 tensorflow==2.15.0
-
+plotly==5.22.0
+pillow==10.4.0
